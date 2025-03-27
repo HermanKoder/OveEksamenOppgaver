@@ -25,15 +25,10 @@ function endreInputJS() {
 
 endreTallEl.addEventListener("change", endreTallJS)
 function endreTallJS() {
-    
+
 }
 
 
 
-
-
-
 endreTallEl = gruzzListe[velgeTallEl.value]
-
-
 
